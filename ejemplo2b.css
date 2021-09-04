@@ -1,0 +1,5 @@
+/* ejemplo2b.css   ML18075  */
+pais[nombre]:before{content:attr(nombre);color:lime;font-weight:bold;background-color:GrayText;display:block}
+
+departamento{background-color:GrayText; display:block;}
+cabecera{color:white; display:inline;}habitantes{color:red; display:inline;}habitantes{color:black; display:inline;}altura{color:white; display:inline;}monedas{color:black; display:inline;}codigoTelefonico{color:white; display:inline;}idiomaOficial{color:black; display:inline;}idiomaAutoctono{color:white; display:inline;}segundoIdioma{color:black; display:inline;}territorio{color:white; display:inline;}salidaAlMar{color:black; display:inline;}paisesFronterizos{color:white; display:inline;}sitioTuristico{color:black; display:inline;}

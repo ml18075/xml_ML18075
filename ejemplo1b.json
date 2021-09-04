@@ -1,0 +1,36 @@
+﻿{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Antonia",
+				"apellido": "Barberena",
+				"direccion": "Calle de Los Alpes,54",
+				"telefono": "63541202",
+				"email": "antobrb@gmail.com",
+				"webPersonal": "antobrb.com",
+				"_id": "2",
+				"_fechaingreso": "1/11/2010"
+			},
+			{
+				"nombre": "Benito",
+				"apellido": "Abarca",
+				"direccion": "Calle Los Cabos,55",
+				"telefono": "6541957",
+				"email": "benirca@gmail.com",
+				"webPersonal": "benirca.com",
+				"dui": "051248792",
+				"iss": "125467890",
+				"afp": "457812457893",
+				"_id": "3",
+				"_fechaingreso": "1/11/2011"
+			}
+		]
+	}
+}

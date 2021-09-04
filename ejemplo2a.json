@@ -1,0 +1,28 @@
+﻿{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Cojutepeque",
+				"habitantes": "1,100,000",
+				"altura": "545 MSNM",
+				"monedas": "Dolar Estadounidense",
+				"codigoTelefonico": "+503",
+				"idiomaOficial": "Español",
+				"idiomaAutoctono": "Nahuatl",
+				"segundoIdioma": "Ingles",
+				"territorio": "756km^2",
+				"salidaAlMar": "No",
+				"_id": "2",
+				"_nombre": "Cuscatlan"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo2b.css" ?>
+<!-- ejemplo2b.xml  ML18075 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="Cuscatlan">
+<cabecera>Cojutepeque</cabecera>
+<habitantes>1,100,000</habitantes>
+<altura>545 MSNM</altura>
+<monedas>Dolar Estadounidense</monedas>
+<codigoTelefonico>+503</codigoTelefonico>
+<idiomaOficial>Español</idiomaOficial>
+<idiomaAutoctono>Nahuatl</idiomaAutoctono>
+<segundoIdioma>Ingles</segundoIdioma>
+<territorio>756km^2</territorio>
+<salidaAlMar>No</salidaAlMar>
+</departamento>
+<departamento id="3" nombre="Chalatenango">
+<cabecera>San Antonio De La Cruz</cabecera>
+<habitantes>1,550,000</habitantes>
+<altura>545 MSNM</altura>
+<monedas>Dolar Estadounidense</monedas>
+<codigoTelefonico>+503</codigoTelefonico>
+<idiomaOficial>Español</idiomaOficial>
+<idiomaAutoctono>Nahuatl</idiomaAutoctono>
+<segundoIdioma>Ingles</segundoIdioma>
+<territorio>2017 km^2</territorio>
+<salidaAlMar>No</salidaAlMar>
+<paisesFronterizos>Honduras</paisesFronterizos>
+<sitioTuristico>El Pital</sitioTuristico>
+</departamento>
+</pais>

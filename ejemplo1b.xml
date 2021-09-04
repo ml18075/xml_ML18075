@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo1b.css" ?>
+<!-- ejemplo1b.xml  ML18075 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="1/11/2010">
+<nombre>Antonia</nombre>
+<apellido>Barberena</apellido>
+<direccion>Calle de Los Alpes,54</direccion>
+<telefono>63541202</telefono>
+<email>antobrb@gmail.com</email>
+<webPersonal>antobrb.com</webPersonal>
+</ficha>
+<ficha id="3" fechaingreso="1/11/2011">
+<nombre>Benito</nombre>
+<apellido>Abarca</apellido>
+<direccion>Calle Los Cabos,55</direccion>
+<telefono>6541957</telefono>
+<email>benirca@gmail.com</email>
+<webPersonal>benirca.com</webPersonal>
+<dui>051248792</dui>
+<iss>125467890</iss>
+<afp>457812457893</afp>
+</ficha>
+</fichero>

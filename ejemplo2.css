@@ -1,0 +1,5 @@
+/* ejemplo2.css   ML18075  */
+pais[nombre]:before{content:attr(nombre);color:lime;font-weight:bold;background-color:GrayText;display:block}
+
+departamento{background-color:GrayText; display:block;}
+cabecera{color:white; display:inline;}habitantes{color:red; display:inline;}habitantes{color:black; display:inline;}altura{color:white; display:inline}
